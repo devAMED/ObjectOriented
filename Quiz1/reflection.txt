@@ -1,0 +1,7 @@
+Reflection
+
+Challenges:
+During this quiz, there were challenges related to managing packages and creating subpackages correctly,  when ensuring that classes from different packages were properly imported. I resolved these issues by revisiting by testing the code frequently, and verifying that the project structure was correct.
+
+AI Tools:
+AI tools were very useful in this quiz. They provided clear explanations and examples that helped me understand new Java constructs, such as package management and dynamic value computation (like calculating the area of a rectangle using instance variables). The guidance helped clarify my doubts, reinforced best practices, and improved my understanding of object-oriented programming in Java. Additionally, I used AI's help in writing a bit of code, which saved time and provided insights on how to structure my solution.
