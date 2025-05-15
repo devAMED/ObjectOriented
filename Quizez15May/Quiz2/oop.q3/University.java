@@ -25,7 +25,7 @@ public class University {
     // “Me” data
     private static final Student ME =
             new Student("Muhammad", "Ahmed", "Georgia", /*info*/ null);
-    private static final String PERSONAL_NUMBER = "0123456";
+    private static final String PERSONAL_NUMBER = "ST1158334";
     private static final List<String> MY_COURSES = List.of(
             "Object-Oriented Programming",
             "Data Structures",
