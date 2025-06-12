@@ -1,0 +1,2 @@
+api.url=https://max.ge/q45/48293017/index.php
+bot.name=Ahmedbot
